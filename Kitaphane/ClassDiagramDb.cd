@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kitaphane.TemelDb" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAQgAAAAAAGAABAEAAAIIAAIAAAAAAAAAA=</HashCode>
+      <FileName>Classlar\DbClasses\TemelDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kitaphane.KategoriDb">
+    <Position X="1.75" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classlar\DbClasses\KategoriDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kitaphane.KitapDb">
+    <Position X="3" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classlar\DbClasses\KitapDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kitaphane.UyeDb">
+    <Position X="0.5" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classlar\DbClasses\UyeDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kitaphane.SatisDb">
+    <Position X="4.25" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classlar\DbClasses\SatisDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kitaphane.YayineviDb">
+    <Position X="5.5" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classlar\DbClasses\YayineviDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kitaphane.YazarDb">
+    <Position X="6.75" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classlar\DbClasses\YazarDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

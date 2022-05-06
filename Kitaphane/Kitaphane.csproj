@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DAD7C3DC-EBB5-4265-A1D8-25EAC638E44B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Kitaphane</RootNamespace>
+    <AssemblyName>Kitaphane</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Kitaphane.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaForm.Designer.cs">
+      <DependentUpon>AnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classlar\Entity\IEntity.cs" />
+    <Compile Include="Classlar\Entity\Kategori.cs" />
+    <Compile Include="Classlar\Entity\Kitap.cs" />
+    <Compile Include="Classlar\DbClasses\KategoriDb.cs" />
+    <Compile Include="Classlar\DbClasses\KitapDb.cs" />
+    <Compile Include="Kategori_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kategori_Form.Designer.cs">
+      <DependentUpon>Kategori_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kitap_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kitap_Form.Designer.cs">
+      <DependentUpon>Kitap_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classlar\Entity\Satis.cs" />
+    <Compile Include="Classlar\Entity\Uye.cs" />
+    <Compile Include="Classlar\Entity\Yayinevi.cs" />
+    <Compile Include="Classlar\Entity\Yazar.cs" />
+    <Compile Include="Classlar\DbClasses\SatisDb.cs" />
+    <Compile Include="Classlar\DbClasses\TemelDb.cs" />
+    <Compile Include="Classlar\DbClasses\UyeDb.cs" />
+    <Compile Include="Classlar\DbClasses\YayineviDb.cs" />
+    <Compile Include="Classlar\DbClasses\YazarDb.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Satis_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Satis_Form.Designer.cs">
+      <DependentUpon>Satis_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uye_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uye_Form.Designer.cs">
+      <DependentUpon>Uye_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yayinevi_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yayinevi_Form.Designer.cs">
+      <DependentUpon>Yayinevi_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yazar_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yazar_Form.Designer.cs">
+      <DependentUpon>Yazar_Form.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ClassDiagramDb.cd" />
+    <None Include="ClassDiagramKitaphane11.cd" />
+    <None Include="Classlar\DbClasses\images\baslik.psd" />
+    <None Include="Classlar\DbClasses\images\Thumbs.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Classlar\DbClasses\images\KitapResim\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Classlar\DbClasses\images\ara.png" />
+    <Content Include="Classlar\DbClasses\images\arama.png" />
+    <Content Include="Classlar\DbClasses\images\arama2.png" />
+    <Content Include="Classlar\DbClasses\images\arama3.png" />
+    <Content Include="Classlar\DbClasses\images\arama4.png" />
+    <Content Include="Classlar\DbClasses\images\arama5.png" />
+    <Content Include="Classlar\DbClasses\images\arama6.png" />
+    <Content Include="Classlar\DbClasses\images\cikis.png" />
+    <Content Include="Classlar\DbClasses\images\ekleme.png" />
+    <Content Include="Classlar\DbClasses\images\ekleme2.png" />
+    <Content Include="Classlar\DbClasses\images\ekleme3.png" />
+    <Content Include="Classlar\DbClasses\images\geri.png" />
+    <Content Include="Classlar\DbClasses\images\guncelle.png" />
+    <Content Include="Classlar\DbClasses\images\home.png" />
+    <Content Include="Classlar\DbClasses\images\ileri.png" />
+    <Content Include="Classlar\DbClasses\images\islenmis\aramabaslik.png" />
+    <Content Include="Classlar\DbClasses\images\islenmis\baslik.png" />
+    <Content Include="Classlar\DbClasses\images\islenmis\kategoribaslik.png" />
+    <Content Include="Classlar\DbClasses\images\islenmis\kitapbaslik.png" />
+    <Content Include="Classlar\DbClasses\images\islenmis\satisbaslik.png" />
+    <Content Include="Classlar\DbClasses\images\islenmis\uyebaslik.png" />
+    <Content Include="Classlar\DbClasses\images\islenmis\yayinevibaslik.png" />
+    <Content Include="Classlar\DbClasses\images\islenmis\yazarbaslik.png" />
+    <Content Include="Classlar\DbClasses\images\kategori.png" />
+    <Content Include="Classlar\DbClasses\images\kaydet.png" />
+    <Content Include="Classlar\DbClasses\images\kaydet2.png" />
+    <Content Include="Classlar\DbClasses\images\kisiarama.png" />
+    <Content Include="Classlar\DbClasses\images\kisiekle.png" />
+    <Content Include="Classlar\DbClasses\images\kisisil.png" />
+    <Content Include="Classlar\DbClasses\images\kitap.png" />
+    <Content Include="Classlar\DbClasses\images\kitap2.png" />
+    <Content Include="Classlar\DbClasses\images\kitaplar.jpg" />
+    <Content Include="Classlar\DbClasses\images\listeleme.png" />
+    <Content Include="Classlar\DbClasses\images\mail.png" />
+    <Content Include="Classlar\DbClasses\images\satis.png" />
+    <Content Include="Classlar\DbClasses\images\sil2.png" />
+    <Content Include="Classlar\DbClasses\images\telefon.png" />
+    <Content Include="Classlar\DbClasses\images\uye.png" />
+    <Content Include="Classlar\DbClasses\images\uyr.png" />
+    <Content Include="Classlar\DbClasses\images\yaz.png" />
+    <Content Include="Classlar\DbClasses\images\yazar.png" />
+    <Content Include="Classlar\DbClasses\images\yazar2.png" />
+    <Content Include="Classlar\DbClasses\images\yazar3.png" />
+    <Content Include="Classlar\DbClasses\images\YazarResim\Ali.jpg" />
+    <Content Include="Classlar\DbClasses\images\YazarResim\Berna Laçin.jpg" />
+    <Content Include="Classlar\DbClasses\images\YazarResim\Can Gacar.jpg" />
+    <Content Include="Classlar\DbClasses\images\YazarResim\Can Topuz.jpg" />
+    <Content Include="Classlar\DbClasses\images\YazarResim\Canan.jpg" />
+    <Content Include="Classlar\DbClasses\images\YazarResim\Cristopher Grange.jpg" />
+    <Content Include="Classlar\DbClasses\images\YazarResim\Halil Kara.jpg" />
+    <Content Include="Classlar\DbClasses\images\YazarResim\Leyleklerin Uçuşu.jpg" />
+    <Content Include="Classlar\DbClasses\images\YazarResim\Siyah Kan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AnaForm.resx">
+      <DependentUpon>AnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kategori_Form.resx">
+      <DependentUpon>Kategori_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kitap_Form.resx">
+      <DependentUpon>Kitap_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Satis_Form.resx">
+      <DependentUpon>Satis_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uye_Form.resx">
+      <DependentUpon>Uye_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yayinevi_Form.resx">
+      <DependentUpon>Yayinevi_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yazar_Form.resx">
+      <DependentUpon>Yazar_Form.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

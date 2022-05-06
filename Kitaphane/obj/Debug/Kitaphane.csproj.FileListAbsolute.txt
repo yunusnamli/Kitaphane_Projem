@@ -1,0 +1,63 @@
+\\web1-server2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\bin\Debug\Kitaphane.exe.config
+\\web1-server2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\bin\Debug\Kitaphane.exe
+\\web1-server2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\bin\Debug\Kitaphane.pdb
+\\web1-server2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.csprojResolveAssemblyReference.cache
+\\web1-server2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.exe
+\\web1-server2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.pdb
+\\web1-server2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.AnaForm.resources
+\\web1-server2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Properties.Resources.resources
+\\web1-server2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.csproj.GenerateResource.Cache
+\\web1-server2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Kategori_Form.resources
+\\web1-server2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Yayinevi_Form.resources
+\\web1-server2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Uye_Form.resources
+\\WEB1-SERVER2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Yazar_Form.resources
+\\WEB1-SERVER2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Kitap_Form.resources
+\\WEB1-SERVER2\pc11\11TBMustafa\2.dönem c#\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Satis_Form.resources
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\bin\Debug\Kitaphane.exe.config
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.exe
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.pdb
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\bin\Debug\Kitaphane.exe
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\bin\Debug\Kitaphane.pdb
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.csprojResolveAssemblyReference.cache
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.AnaForm.resources
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Kategori_Form.resources
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Kitap_Form.resources
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Properties.Resources.resources
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Satis_Form.resources
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Uye_Form.resources
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Yayinevi_Form.resources
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Yazar_Form.resources
+D:\Mega Bölüm\Mustafa\ders\11.sınıf yazılım\2.dönem(proje\Okulda Yapılan\8.Proje başlangıc\Kitaphane\Kitaphane\obj\Debug\Kitaphane.csproj.GenerateResource.Cache
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\bin\Debug\Kitaphane.exe.config
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\obj\Debug\Kitaphane.exe
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\obj\Debug\Kitaphane.pdb
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\bin\Debug\Kitaphane.exe
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\bin\Debug\Kitaphane.pdb
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\bin\Debug\Kitaphane.exe.CodeAnalysisLog.xml
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\bin\Debug\Kitaphane.exe.lastcodeanalysissucceeded
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\obj\Debug\Kitaphane.csprojResolveAssemblyReference.cache
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\obj\Debug\Kitaphane.AnaForm.resources
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Kategori_Form.resources
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Kitap_Form.resources
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Properties.Resources.resources
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Satis_Form.resources
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Uye_Form.resources
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Yayinevi_Form.resources
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\obj\Debug\Kitaphane.Yazar_Form.resources
+C:\Users\yunusnamlı\Desktop\Kitaphane122017\Kitaphane\Kitaphane\obj\Debug\Kitaphane.csproj.GenerateResource.Cache
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\bin\Debug\Kitaphane.exe.config
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\bin\Debug\Kitaphane.exe
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\bin\Debug\Kitaphane.pdb
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\obj\Debug\Kitaphane.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\obj\Debug\Kitaphane.AnaForm.resources
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\obj\Debug\Kitaphane.Kategori_Form.resources
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\obj\Debug\Kitaphane.Kitap_Form.resources
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\obj\Debug\Kitaphane.Properties.Resources.resources
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\obj\Debug\Kitaphane.Satis_Form.resources
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\obj\Debug\Kitaphane.Uye_Form.resources
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\obj\Debug\Kitaphane.Yayinevi_Form.resources
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\obj\Debug\Kitaphane.Yazar_Form.resources
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\obj\Debug\Kitaphane.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\obj\Debug\Kitaphane.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\obj\Debug\Kitaphane.exe
+C:\Users\yunus\Desktop\Kitaphane_Yeni\Kitaphane\obj\Debug\Kitaphane.pdb

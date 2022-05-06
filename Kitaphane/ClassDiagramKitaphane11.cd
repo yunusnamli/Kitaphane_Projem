@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kitaphane.Kategori">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAEQAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classlar\Entity\Kategori.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kitaphane.Uye">
+    <Position X="2" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAQAAAABCAAQAQkAEAABAAAACAAAAAgAEAAAABA=</HashCode>
+      <FileName>Classlar\Entity\Uye.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kitaphane.Satis">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAAEAIAAAACAAAAAAAAAAgAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classlar\Entity\Satis.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kitaphane.Kitap">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAQAAAAGAAAAIgAAgCAEAJAABAARQEAAAUA=</HashCode>
+      <FileName>Classlar\Entity\Kitap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kitaphane.Yazar">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAECAAAAAgEAAAABAAEAAAAAAAAAAEAAAABAAAAA=</HashCode>
+      <FileName>Classlar\Entity\Yazar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kitaphane.Yayinevi">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAEAAAAAAAAAAAAAQAUBAEAFAQABAAAAAQAA=</HashCode>
+      <FileName>Classlar\Entity\Yayinevi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Kitaphane.IEntity">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classlar\Entity\IEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
